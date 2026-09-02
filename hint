@@ -2,18 +2,16 @@
 CHAKRA CTF - HINT MANIFEST & VERIFICATION HASHES
 ==================================================
 
+[01]
+-.-. .... .- -.- .-. .- -...- -.-- ----- ..- ..--.- ... ..- -... -- .. - - . -.. ..--.- - .... . ..--.- .-- .-. ----- -. --. ..--.- ..-. .-.. .- --. -...-
 
-[HASH 01 - DECOY]
-d060c8eafa6f2e4d55638206306f2251
+[02]
+-.-- --- ..- / --. .- ...- . / .-- .-. --- -. --. / .- -. ... .-- . .-
 
-[HASH 02 - DECOY]
-0d41d84eb328eed3dc591af75f2fe7d3
-(Decodes to: temp_session_key_9921)
 
-[HASH 03 - TARGET FLAG HASH]
-8e83e7331e683bb4aa8c85629d42fee9
-(Decodes to: z1pp3d_4w4y_unl0ck3d_4rch1v3)
+[03]
+-.-. .... .- -.- .-. .- -.--. ..-. .-.. .- --. ..--.- ..-. --- ..- -. -.. ..--.- ..-. .-. --- -- ..--.- --.. .. .--. -.--.-
 
 Format Guide:
 Match the decrypted hash into the official format:
-CHAKRA{<decrypted_string>} -> CHAKRA{z1pp3d_4w4y_unl0ck3d_4rch1v3}
+CHAKRA{<decrypted_string>} -> CHAKRA{<decrypted_string>}
