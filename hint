@@ -1,0 +1,21 @@
+==================================================
+CHAKRA CTF - HINT MANIFEST & VERIFICATION HASHES
+==================================================
+
+Interception telemetry caught the following cryptographic hashes:
+
+[HASH 01 - DECOY]
+13f7e58a2cd364596484342b3c330ec8
+(Decodes to: access_denied_node_04)
+
+[HASH 02 - DECOY]
+0d41d84eb328eed3dc591af75f2fe7d3
+(Decodes to: temp_session_key_9921)
+
+[HASH 03 - TARGET FLAG HASH]
+8e83e7331e683bb4aa8c85629d42fee9
+(Decodes to: z1pp3d_4w4y_unl0ck3d_4rch1v3)
+
+Format Guide:
+Match the decrypted hash into the official format:
+CHAKRA{<decrypted_string>} -> CHAKRA{z1pp3d_4w4y_unl0ck3d_4rch1v3}
